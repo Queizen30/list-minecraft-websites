@@ -1,4 +1,8 @@
-# Wiki & Knowledgebase
+---
+title: Useful Minecraft tools
+---
+
+# Wikis and Knowledgebases
 
 ## Base Game
 - [Official Minecraft Help](https://help.minecraft.net) - Official support & knowledge base
@@ -6,10 +10,11 @@
 - [Old Wiki](https://minecraft.fandom.com) - Old wiki spammed with ads and contaning outdated information
 
 ## Development
-- [PaperMC Docs](https://docs.papermc.io) - Documentation for [PaperMC](#PaperMC)
+- [PaperMC Docs](https://docs.papermc.io) - Documentation for [PaperMC](https://papermc.io)
+- [Bedrock Dev Docs](https://bedrock.dev) - Bedrock add-on & pack development
+- [Quilt Docs](https://wiki.quiltmc.org) - Quilt/loader docs & migration resources
 
+# Mod loaders and server software
 
-
-## Software
-### Lol
-<a name="PaperMC></a>paper
+## Mod loaders
+- [Fabric](https://fabricmc.net) - Fabric mod loader & ecosystem
