@@ -4,4 +4,4 @@ theme: minima
 url: "https://mctools.github.io"
 markdown: kramdown
 minima:
- skin: solarized-dark
+ skin: dark
