@@ -21,4 +21,7 @@ title: Useful Minecraft tools
 - [Forge](https://files.minecraftforge.net) - Forge mod loader downloads & versions
 - [Quilt](https://quiltmc.org) - Quilt project (fork/extension of Fabric)
 
-# 
+# Server Software
+- [Paper](https://papermc.io) - Paper server (performance-focused)
+- [Spigot](https://spigotmc.org) - Spigot project & plugin community
+- [Sponge](https://spongepowered.org) - Sponge project (servers/plugins)
