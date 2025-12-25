@@ -6,6 +6,3 @@ plugins:
 markdown: kramdown
 minima:
   skin: dark
-exclude:
-  - README.md
-  - .github
