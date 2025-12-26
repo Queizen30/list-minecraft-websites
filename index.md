@@ -1,5 +1,5 @@
 ---
-title:    
+title: ㅤ
 ---
 
 # Wikis and Knowledgebases
