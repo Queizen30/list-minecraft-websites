@@ -96,6 +96,12 @@ title: ㅤ
 
 # Launcher(s)
 
+# List of Minecraft launchers
+- [Modrinth Launcher](https://modrinth.com/app) - Official Minecraft launcher from modrinth
+- [Prism Launcher](https://prismlauncher.org/) - Open source launcher with high customizablility
+- [Curseforge](https://www.curseforge.com/download/app) - Curseforge Launcher (Not just Minecraft)
+- [More...](https://github.com/deprecatedbrain/minecraft-launcher-index/)
+
 ## Tutorials for the default launcher
 - [How to launch a custom jar](https://www.minecraftforum.net/forums/support/java-edition-support/1871678-how-to-use-custom-jars-in-the-new-launcher) - How to launch a custom minecraft.jar in the default launcher (maybe outdated)
 - 
