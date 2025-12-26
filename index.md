@@ -71,4 +71,8 @@ title: Useful Minecraft tools
 - [r/MinecraftCommands](https://www.reddit.com/r/MinecraftCommands/) - Community for command help and command creations
 
 ## Data Pack generators
-- [Misode](https://misode.github.io/) - Data Pack generators and Minecraft tools
+- [Misode](https://misode.github.io/) - Data Pack generators and Minecraft tools#
+- [Crafting Recipe](https://crafting.thedestruc7i0n.ca/) - Create new crafting recipes
+- [Advancement Generator](https://advancements.thedestruc7i0n.ca/) - Advancement data pack generator
+- [Vanilla Tweaks](https://vanillatweaks.net/) - Generators for data packs, crafting tweaks and texture packs
+- [MCCreator](https://mcreator.net/about/minecraft-data-pack-maker) - Create Minecraft data packs (software)
