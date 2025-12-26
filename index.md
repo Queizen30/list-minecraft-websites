@@ -7,6 +7,7 @@ title: ㅤ
 ## Base Game
 - [Official Minecraft Help](https://help.minecraft.net) - Official support & knowledge base
 - [Minecraft Wiki](https://minecraft.wiki) - Unofficial game documentation, tutorials, etc.
+- [Tutorials](https://minecraft.wiki/w/Tutorials) - Lots of tutorials from the Minecraft Wiki (see above)
 - [Old Wiki](https://minecraft.fandom.com) - Old wiki spammed with ads and contaning outdated information
 
 ## Development
