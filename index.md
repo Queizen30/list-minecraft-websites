@@ -23,6 +23,9 @@ You can find a list of the contributors [here](/contributors).
 - [Quilt Docs](https://wiki.quiltmc.org) - Quilt/loader docs & migration resources
 
 ## Cheatsheets and tools
+- [Cheatsheets](/cheatsheets/) - A list of cheatsheets i found
+
+
 # Mod loaders and server software
 
 ## Mod loaders

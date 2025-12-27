@@ -1,2 +1,2 @@
-The following links are images to cheatsheets listed on the list of useful Minecraft tools.
-It might not be up-to-date, so look at [this list](/index#cheatsheets-and-tools) instead.
+The following links are images to cheatsheets I found in the darkest and oldest corners of the internet.
+If you found any more, please open a [issue]()

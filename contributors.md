@@ -15,3 +15,4 @@ You will only be listed here when directly contacting me. If I used your content
   - [Block Property Enclyclopedia](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw6ihap)
 
 - [_gid](https://l.qu30.qzz.io/l/r/_gid)
+ - [Enchant Order](https://iamcal.github.io/enchant-order/)
