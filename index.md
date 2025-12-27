@@ -9,7 +9,7 @@ If you have any more items to add, found misstakes or think something fits bette
 
 ## Base Game
 - [Official Minecraft Help](https://help.minecraft.net) - Official support & knowledge base
-- [Minecraft Wiki](https://minecraft.wiki) - Unofficial game documentation, tutorials, etc.
+- [Minecraft Wiki](https://minecraft.wiki) - Unofficial game documentation, tutorials, etc. (Tip: use mc.wiki for quick entering)
 - [Tutorials](https://minecraft.wiki/w/Tutorials) - Lots of tutorials from the Minecraft Wiki (see above)
 - [Old Wiki](https://minecraft.fandom.com) - Old wiki spammed with ads and containing outdated information
 
@@ -32,14 +32,12 @@ If you have any more items to add, found misstakes or think something fits bette
 - [Paper](https://papermc.io) - Paper server (performance-focused)
 - [Spigot](https://spigotmc.org) - Spigot project & plugin community
 - [Sponge](https://spongepowered.org) - Sponge project (servers/plugins)
+- [Purpur](https://purpurmc.org) - Fork of paper with more customizability
 - [GeyserMC](https://geysermc.org) - Java/Bedrock translation layer
 - [ViaVersion](https://viaversion.com) - ViaVersion/ViaBackwards for version compatibility
-- [Leaves](https://leavesmc.org) - Fork of Paper aiming to fix broken vanilla properties
-- [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) - High performance fork of paper
-- [Purpur](https://purpurmc.org) - Fork of paper with more customizability
 - [Velocity](https://papermc.io/software/velocity) - Server proxy made by PaperMC
-- [Nukkit](https://cloudburstmc.org/articles/) - Server Software for MCPE
 - [More...](https://lestegii.github.io/server-software/)
+- [BE Server Software](https://wiki.bedrock.dev/servers/server-software.html) - List of Bedrock Server Software
 
 # Content download sites
 
@@ -49,7 +47,6 @@ If you have any more items to add, found misstakes or think something fits bette
 - [Nexus Mods](https://www.nexusmods.com/minecraft)
 - [ModDB](https://www.moddb.com/games/minecraft)
 - [Planetminecraft](https://www.planetminecraft.com/mods/)
-- [Feed the Beast](https://feed-the-beast.com) (Modpacks)
 - [NotEnoughMods](https://bot.notenoughmods.com/)
 <br>_I don't guarantee that any of the mods listed at these pages are safe. Use at your own risk._
 
@@ -74,6 +71,11 @@ If you have any more items to add, found misstakes or think something fits bette
 - [Curseforge](https://www.curseforge.com/minecraft/search?&class=bukkit-plugins) - Bukkit
 - [Modrinth](https://modrinth.com/discover/plugins)
 
+## Modpacks
+- [Feed the Beast](https://feed-the-beast.com)
+- [Technic](https://www.technicpack.net/modpacks)
+- [Curseforge](https://www.curseforge.com/minecraft/search?&class=modpacks)
+- [ATLauncher](https://atlauncher.com/packs/all)
 
 ## Bedrock Addons
 - [Curseforge](https://www.curseforge.com/minecraft-bedrock) - Addons, Texture packs, scripts, maps and skins
@@ -82,6 +84,9 @@ If you have any more items to add, found misstakes or think something fits bette
 - [MCPEDL](https://mcpedl.com/) - Bedrock addons, etc.
 
 # Data packs, ressource packs, mods and commands
+
+## Must-have mods
+- [Useful mods](https://github.com/TheUsefulLists/UsefulMods) - A list of useful mods
 
 ## Command generators
 - [MCStacker](https://mcstacker.net) - Command generator (functions, bossbars, JSON)
@@ -148,3 +153,21 @@ If you have any more items to add, found misstakes or think something fits bette
 
 ## Tools for server owners/admins
 - [MC-Packs](https://mc-packs.net/) - Host a ressource pack for your server
+- [Dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/) - Web-based live map
+- [spark](https://spark.lucko.me/) - Server profiling tool
+- [PLAN](https://www.playeranalytics.net/) - Player analytics tools
+- [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) - Link in-game chat to discord
+
+## Server scanners and statistics
+- [MCStatus](https://mcstatus.io/) - Get the status of any server
+- [ServerOverflow](https://so.airblo.ws/) - Server scanner and statistics
+- [bStats](https://bstats.org/) - Server statistics
+
+## Server lists
+- [FindMCServer](https://findmcserver.com/) - The official server list
+- [Minecraft.buzz](https://minecraft.buzz/) - Clean list without ads
+
+## Server hosts
+- [Free hosts](https://myuui.com/) - A list of free hosts
+- [All hosts](https://wisehosting.com/blog/every-minecraft-server-hosting-provider) - A list of many server hosts
+- [Best hosts](https://bestminecraftserverhost.com/) - Find your perfect host
