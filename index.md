@@ -2,6 +2,9 @@
 title: Useful Minecraft tools
 ---
 
+This list contains about 100 items and took decision and time to find.
+
+If you have any more items to add, found misstakes or think something fits better in another category, etc. , you can open a [Pull Request]()
 # Wikis and Knowledgebases
 
 ## Base Game
@@ -142,3 +145,6 @@ title: Useful Minecraft tools
 - [Pterodactyl](https://pterodactyl.io/) - Linux
 - [AMP](https://cubecoders.com/AMP) - Windows, Linux (19€ or 38€ for lifetime)
 - [Puffer Panel](https://pufferpanel.com/) - Linux
+
+## Tools for server owners/admins
+- [MC-Packs](https://mc-packs.net/) - Host a ressource pack for your server
