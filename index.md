@@ -1,5 +1,5 @@
 ---
-title: Useful Minecraft tools
+title: The List
 ---
 
 This list contains about 100 items and took decision and time to find.
