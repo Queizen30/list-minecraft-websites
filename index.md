@@ -276,4 +276,5 @@ You can find a list of the contributors [here](/contributors).
 ### Building
 - [Pixel Circel Generator](https://donatstudios.com/PixelCircleGenerator) - Generate perfect circels in all sizes
 
-
+### Enchanting and anvils
+- [Anvil enchanting optimizer](https://enchantmentoptimization.vercel.app/) - Optimize your enchanting in anvils to lose as less XP as possible
