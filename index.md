@@ -23,12 +23,6 @@ You can find a list of the contributors [here](/contributors).
 - [Bedrock Dev Docs](https://bedrock.dev) - Bedrock add-on & pack development
 - [Quilt Docs](https://wiki.quiltmc.org) - Quilt/loader docs & migration resources
 
-## Cheatsheets and tools
-- [Cheatsheets](/cheatsheets/) - A list of cheatsheets i found
-- [Minecraft color pallete](https://colorswall.com/palette/3847) - In-game color pallete (e.g. wool, concrete)
-- [Chunkbase](https://chunkbase.com) - Seed map
-- [JacobSJO Map](https://map.jacobsjo.eu/) - Chunkbase (see above), but it can read data packs and preview terrain
-- [Pixel Circel Generator](https://donatstudios.com/PixelCircleGenerator) - Generate perfect circels in all sizes
 
 # Mod loaders and server software
 
@@ -125,11 +119,14 @@ You can find a list of the contributors [here](/contributors).
 
 # Launcher(s)
 
-# List of Minecraft launchers
+## List of Minecraft launchers
 - [Modrinth Launcher](https://modrinth.com/app) - Official Minecraft launcher from Modrinth
 - [Prism Launcher](https://prismlauncher.org/) - Open source launcher with high customizability
 - [Curseforge](https://www.curseforge.com/download/app) - CurseForge Launcher (not just Minecraft)
 - [More...](https://github.com/deprecatedbrain/minecraft-launcher-index/)
+
+- [BedrockLauncherLite](https://bedrocklauncher.github.io/) - Unofficial BE Launcher for Windows
+- [Amethyst Launcher](https://github.com/FrederoxDev/Amethyst-Launcher)
 
 ## Tutorials for the default launcher
 - [How to launch a custom jar](https://www.minecraftforum.net/forums/support/java-edition-support/1871678-how-to-use-custom-jars-in-the-new-launcher) - How to launch a custom minecraft.jar in the default launcher (maybe outdated)
@@ -251,4 +248,20 @@ You can find a list of the contributors [here](/contributors).
 
 ### BE Hack Clients
 - [Borion](https://github.com/Borion-Updated)
+
+# Cheatsheets and tools
+
+## Cheatsheets
+- [Cheatsheets](/cheatsheets/) - A list of cheatsheets i found
+
+## Tools
+
+### Maps
+- [Chunkbase](https://chunkbase.com) - Seed map
+- [JacobSJO Map](https://map.jacobsjo.eu/) - Chunkbase (see above), but it can read data packs and preview terrain
+
+### Building
+- [Pixel Circel Generator](https://donatstudios.com/PixelCircleGenerator) - Generate perfect circels in all sizes
+- [Cubical](https://cubical.xyz/) - Web based map editor
+
 
