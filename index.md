@@ -228,7 +228,7 @@ You can find a list of the contributors [here](/contributors).
 
 # Clients
 
-# JE Clienst
+## JE Clients
 - [Lunar Client](https://www.lunarclient.com/) - One of the biggest clients
 - [LabyMod](https://labymod.net/)
 - [Badolin](https://www.badlion.net/minecraft-client)
