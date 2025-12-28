@@ -36,3 +36,6 @@ You will only be listed here when directly contacting me. If I used your content
 
 - [sky_cap5959](https://l.qu30.qzz.io>/l/r/sky_cap5959)
   - [pixel circel gen](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw5x7qn)
+ 
+- [lamba_44](https://l.qu30.qzz.io/l/r/lamba_44)
+  - [Anvil enchanting optimizer](https://www.reddit.com/r/Minecraft/comments/1pxucpx/comment/nwdmxhx/)
