@@ -1,6 +1,5 @@
 ---
 title: The List
-permalink: /
 ---
 
 This list contains about 200 items and took decision and time to find. So if you had one of those moments (WHERE HAS THIS BEEN ALL MY LIFE?), I would enjoy if you could [give this repo a star on github](https://github.com/Queizen30/mc-tools-list). (Remember, only a few clicks!)
