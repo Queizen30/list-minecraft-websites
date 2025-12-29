@@ -1,13 +1,14 @@
 ---
 title: The List
-permalink: /
 ---
 
 This list contains about 200 items and took dedication and time to compile. So if you had one of those moments (WHERE HAS THIS BEEN ALL MY LIFE?), I would appreciate it if you could [give this repo a star on GitHub](https://github.com/Queizen30/mc-tools-list). (Remember, only a few clicks!)
 
 If you have any more items to add, found mistakes or think something fits better in another category, etc., you can open an [Issue](https://github.com/Queizen30/mc-tools-list/issues).
 
-You can find a list of contributors [here](/contributors).
+You can find a list of the contributors [here](/contributors).
+
+_This website is still in beta. It's not complete yet. Please report bugs or suggestions [here](https://l.qu30.qzz.io/l/gh/queizen30/mc-tools-list/i)._
 
 ## Contents
 
