@@ -7,6 +7,8 @@ markdown: kramdown
 
 minima:
   skin: dark
+  nav_pages:
+    - index.md
 
 exclude:
   - README.md
@@ -14,6 +16,3 @@ exclude:
   - NOTES.md
   - CNAME
   - LICENSE
-
-header_pages:
-  - index.md
