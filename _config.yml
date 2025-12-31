@@ -9,6 +9,9 @@ minima:
   skin: dark
   nav_pages:
     - index.md
+    - lumt.md
+    - contributors.md
+    - /a/
 
 exclude:
   - README.md
