@@ -1,3 +1,7 @@
+---
+title: Other lists
+---
+
 This is a list of other lists of useful Minecraft tools. (A bit confusing, I know.)
 
 - [awesome-minecraft](https://github.com/bs-community/awesome-minecraft) - by bs-community
