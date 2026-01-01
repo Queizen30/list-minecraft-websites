@@ -1,6 +1,13 @@
 <style>
-  .site-footer-custom-lumt { width: min(1200px, 53%); margin-left: auto; margin-right: auto; }
-  @media (max-width: 1000px) { .site-footer-custom-lumt { width: min(1200px, 95%); } }
+  .site-footer-custom-lumt {
+    width: clamp(320px, 53vw, 1200px);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 16px;
+  }
+  @media (max-width: 1000px) {
+    .site-footer-custom-lumt { width: clamp(280px, 95vw, 1200px); }
+  }
 </style>
 
 
