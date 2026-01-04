@@ -1,5 +1,7 @@
 ---
 title: Blog
+layout: home
+permalink: /a/index.html
 ---
 
 ### Welcome!
