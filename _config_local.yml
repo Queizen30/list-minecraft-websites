@@ -1,0 +1,2 @@
+# Local override for development on Windows: use local minima gem instead of remote_theme
+theme: minima
