@@ -1,3 +1,15 @@
+# are you a human? if so, why are you looking at this?
+
 # last updated 2026-1-5 (YYYY-MM-DD)
 User-agent: *
+Sitemap: https://lumt.qu30.qzz.io/assets/misc/sitemap.xml
+
+# block AI crawlers
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# link to sitemap
 Sitemap: https://lumt.qu30.qzz.io/assets/misc/sitemap.xml
