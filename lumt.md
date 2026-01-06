@@ -10,6 +10,8 @@ You can find a list of the contributors [here](/contributors).
 
 _This website is still in beta. It's not complete yet. Please report bugs or suggestions [here](https://l.qu30.qzz.io/l/gh/queizen30/mc-tools-list/i)._
 
+[↓ Comments](#comments)
+
 ## Contents
 
 - [Wikis and Knowledgebases](#wikis-and-knowledgebases)
@@ -415,3 +417,6 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 ## Other
 - [Data Pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) - [VS Code](https://code.visualstudio.com) Extension: Heavy language features for Minecraft: Java Edition data pack file
 - [NBTViewer](https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt) - VS COde extension: View Minecraft NBT and 3D structures
+
+
+### Comments
