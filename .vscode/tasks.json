@@ -2,7 +2,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Start Jekyll",
+            "label": "Start Jekyll (local)",
             "type": "shell",
             "command": "ruby",
             "args": [
@@ -12,7 +12,7 @@
                 "jekyll",
                 "serve",
                 "--config",
-                "_config.yml,_config_local.yml",
+                "_config_local.yml",
                 "--host",
                 "localhost",
                 "--port",
@@ -21,7 +21,20 @@
             "group": {
                 "kind": "build",
                 "isDefault": true
-            }
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "options": {
+                "shell": {
+                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                    "args": [
+                        "-lc"
+                    ]
+                }
+            },
+            "problemMatcher": []
         }
     ]
 }
