@@ -34,12 +34,12 @@ a:hover {
     height: 100vh;
     margin: 0 20px 10px 0;
 
-    float: left;
-
     display: flex;
     flex-direction: column;
     align-items: left;
     justify-content: center;
+
+    position: fixed;
 }
 
 .nav-container h4 {
@@ -47,9 +47,16 @@ a:hover {
 }
 
 .content-container {
-  margin-left: 15%;
+  margin-left: 15vw;
   height: fit-content;
 }
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-container img {margin: 10px;}
 
 .footer {
   text-align: center;
