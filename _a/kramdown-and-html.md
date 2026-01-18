@@ -29,4 +29,4 @@ The following are examples on what HTML/JS in your Jekyll site can do:
 
 #### Create copy buttons for your code
 <pre><code id="code">console.log('Hello, world!')</code></pre>
-<button onclick="navigator.clipboard.writeText(document.getElementById('code').innerText)">Copy</button>
+<button style="marigin-top: 0px;" onclick="navigator.clipboard.writeText(document.getElementById('code').innerText)">Copy</button>
